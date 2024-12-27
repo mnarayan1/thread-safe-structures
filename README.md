@@ -1,0 +1,1 @@
+Thread-safe implementation of basic data structures in C

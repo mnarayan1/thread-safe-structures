@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <pthread.h>
+#include <stdlib.h>
 
 typedef struct _q_node_t {
     struct _q_node_t *next;

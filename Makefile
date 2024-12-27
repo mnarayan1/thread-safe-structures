@@ -2,7 +2,7 @@ CC      = gcc
 CFLAGS  = -g
 RM      = rm -f
 SRC_DIR = src
-INC_DIR = include
+INC_DIR = includes
 
 default: all
 
